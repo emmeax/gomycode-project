@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: green
+    ;
+}
+
+white {
+    color: white;
+}
+
+
+
+ul {
+    list-style: circle;
+    margin: 8px;
+    padding: 5px;
+}
+
+.box-model {
+    border: 10px solid goldenrod;
+    background-color: black;
+    height: 110px;
+    width: 400px;
+    padding: 20px;
+    margin: 1px;
+    margin-bottom: 2px;
+
+}
+
+.Resume {
+    border: 10px solid goldenrod;
+    background-color: black;
+    padding: 20px;
+}
+
+ul {
+    color: white;
+    text-align: left;
+    list-style: square;
+    margin: 10px;
+    padding: 10px;
+}
+
+strong {
+    color: white;
+}
+
+
+
+.blue {
+    color: blue;
+}
+
+
+
+
+
