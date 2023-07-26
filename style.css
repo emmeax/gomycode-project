@@ -1,6 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
 }
+
 
 h2 {
     color: green
@@ -9,6 +13,13 @@ h2 {
 
 white {
     color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0 auto;
 }
 
 
@@ -22,11 +33,10 @@ ul {
 .box-model {
     border: 10px solid goldenrod;
     background-color: black;
-    height: 110px;
-    width: 400px;
-    padding: 20px;
-    margin: 1px;
     margin-bottom: 2px;
+    width: 50%;
+    margin: 0 auto;
+
 
 }
 
